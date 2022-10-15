@@ -4,18 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "645915d02b09d1bf",
+        "id": "739eea5c67d292fa",
         "type": "tabs",
         "children": [
           {
-            "id": "7aadf354fdc43d08",
+            "id": "e9be7c2719d11b1d",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -29,14 +30,6 @@
         "type": "tabs",
         "dimension": 39.2226148409894,
         "children": [
-          {
-            "id": "416ee2f58f530424",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
           {
             "id": "420e4f49b9274747",
             "type": "leaf",
@@ -80,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "a2d3fae8fb9f590a",
@@ -103,21 +96,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#📝/Computer_Science/Programming/C",
+                "query": "tag:#🟥",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "8565268861a5403c",
-            "type": "leaf",
-            "state": {
-              "type": "RSS_FEED",
-              "state": {}
             }
           },
           {
@@ -132,7 +117,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -163,7 +148,23 @@
             }
           },
           {
-            "id": "b00eddcf59df182b",
+            "id": "724fcf879548e059",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f9f890d712630904",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5673ba038e90e4c3",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -171,15 +172,15 @@
             }
           },
           {
-            "id": "724fcf879548e059",
+            "id": "91e172996f239179",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "RSS_FEED",
               "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,17 +190,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "7aadf354fdc43d08",
+  "active": "e9be7c2719d11b1d",
   "lastOpenFiles": [
+    "Void/💻 COMPUTER SCIENCE.md",
+    "Void/Algorythms.md",
+    "Void/Computational Geometry.md",
+    "Void/Computational Complexity.md",
+    "Void/History of Computer Science.md",
+    "Void/Scheduling.md",
+    "Void/C Index.md",
     "Sorting algorithms.md",
     "Push_swap.md",
-    "Understanding basics of sorting algorithms.md",
-    "Void/⚙️System Administration.md",
-    "Void/C Makefiles.md",
-    "Void/Libft.md",
-    "Void/Assembler.md",
-    "Void/Preprocessor.md",
-    "Void/42Core_Projects.md",
-    "Void/Void Pointer C.md"
+    "Understanding basics of sorting algorithms.md"
   ]
 }

@@ -1,6 +1,7 @@
 {
   "viewTypes": [
-    "markdown"
+    "markdown",
+    "graph"
   ],
   "onlyRootLeaves": true
 }

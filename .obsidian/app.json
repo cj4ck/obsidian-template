@@ -14,9 +14,11 @@
   "newFileFolderPath": "Void",
   "defaultViewMode": "source",
   "showLineNumber": true,
-  "legacyEditor": false,
+  "legacyEditor": true,
   "livePreview": true,
   "strictLineBreaks": true,
   "showFrontmatter": true,
-  "autoConvertHtml": false
+  "autoConvertHtml": false,
+  "showInlineTitle": true,
+  "rightToLeft": false
 }

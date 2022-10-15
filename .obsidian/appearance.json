@@ -1,11 +1,13 @@
 {
   "baseFontSize": 23,
   "translucency": false,
-  "cssTheme": "Primary",
+  "cssTheme": "Things",
   "baseFontSizeAction": true,
   "theme": "obsidian",
-  "interfaceFontFamily": "American Typewriter,AppleMyungjo",
-  "textFontFamily": "Gill Sans,Apple Braille",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
   "monospaceFontFamily": "FantasqueSansMono Nerd Font Mono",
-  "accentColor": ""
+  "accentColor": "#ffc800",
+  "showViewHeader": false,
+  "nativeMenus": false
 }
