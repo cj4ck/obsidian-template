@@ -1,0 +1,11 @@
+{
+  "baseFontSize": 23,
+  "translucency": false,
+  "cssTheme": "Primary",
+  "baseFontSizeAction": true,
+  "theme": "obsidian",
+  "interfaceFontFamily": "American Typewriter,AppleMyungjo",
+  "textFontFamily": "Gill Sans,Apple Braille",
+  "monospaceFontFamily": "FantasqueSansMono Nerd Font Mono",
+  "accentColor": ""
+}

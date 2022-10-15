@@ -1,0 +1,22 @@
+{
+  "foldHeading": true,
+  "attachmentFolderPath": "Attachments 🔗",
+  "communityThemeSortOrder": "download",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "fileSortOrder": "alphabetical",
+  "trashOption": "local",
+  "readableLineLength": false,
+  "tabSize": 4,
+  "showUnsupportedFiles": false,
+  "communityPluginSortOrder": "download",
+  "newFileFolderPath": "Void",
+  "defaultViewMode": "source",
+  "showLineNumber": true,
+  "legacyEditor": false,
+  "livePreview": true,
+  "strictLineBreaks": true,
+  "showFrontmatter": true,
+  "autoConvertHtml": false
+}

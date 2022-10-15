@@ -1,0 +1,7 @@
+{
+  "template": "{{text}}\n> [Wikipedia]({{url}})",
+  "shouldUseParagraphTemplate": false,
+  "shouldBoldSearchTerm": true,
+  "paragraphTemplate": "> {{paragraphText}}\n>\n",
+  "language": "en"
+}
